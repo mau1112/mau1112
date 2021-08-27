@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @mau1112
-- 👀 I’m interested in Fullstack Development
+- 👋 Hi, I’m @mau1112 Mauricio Galeano
+- 👀 I’m interested in React And Node
 - 🌱 I’m currently learning React, and looking forward to learn Node
+- I'm Currently living in Bogota Colombia
 
 - 📫 How to reach me mauriciogaleano1112@gmail.com
 
