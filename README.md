@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mau1112 Mauricio Galeano
-- 👀 I’m interested in React And Node
-- 🌱 I’m currently learning React, and looking forward to learn Node
+- 👀 I’m interested in React And Django
+- 🌱 I’m currently working with Django, SQL, Sass, Jquery and bootstrap
 - I'm Currently living in Bogota Colombia
 
 - 📫 How to reach me mauriciogaleano1112@gmail.com
