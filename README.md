@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @mau1112 Mauricio Galeano
-- 👀 I’m interested in React And Django
-- 🌱 I’m currently working with Django, SQL, Sass, Jquery and bootstrap
 - I'm Currently living in Bogota Colombia
 
 - 📫 How to reach me mauriciogaleano1112@gmail.com
