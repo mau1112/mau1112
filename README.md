@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mau1112 Mauricio Galeano
-- I'm Currently living in Vancouver Canada
 
 - 📫 How to reach me mauriciogaleano1112@gmail.com
 
